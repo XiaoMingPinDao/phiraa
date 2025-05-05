@@ -57,9 +57,10 @@ item-touch-debug-sub = 游玩过程中显示触摸点
 load-cali-failed = 加载音频失败
 
 about-content =
-  Phira+ v1.0 （基于Phira v{ $version }） 
+  Phira+（Phira 版本 v{ $version }） 
 
-  Phira+ 是一款基于 Phira 开发，玩法基于 Phigros 的非商业社区音乐游戏，使用 Rust 开发。
+  Phira+ 是一款基于 Phira 开发，玩法基于 Phigros 的非商业社区音乐游戏，使用 Rust 开发，致力于改善 Phira 的游玩体验。
+  欢迎提交 bug 和建议！
 
   BiliBili 账号：@一只铭铭yzmm
-  
+  原 GitHub 仓库：https://github.com/TeamFlos/phira
