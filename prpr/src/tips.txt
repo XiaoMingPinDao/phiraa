@@ -1,26 +1,30 @@
-Tip：您有一个好
 Tip：咕咕咕咕鸽鸽鸽嗝！
 Tip：当你在看 tip 时，tip 也在看你
-Tip：#include<yzmm/phiraplus.h>
+Tip：这里没有 tip！
 了来过倒被 pit 条这：piT
 Tip：急召美工、策划、防脱液
+Tip：Tip：Tip：Tip：Tip：
+Tip：他们朝我扔蓝键，我朝他们扔GOOD
+Tip：有一个人前来打歌
+Tip：您线蓝了
+Tip：恭喜奥托普擂先生拿下世界首杀！！！
+Tip：快把浴霸关上！！
+Tip：不开引导式，亲人两行泪
+Tip：您有一个好
 Tip：写不下去了，给你们听采样吧
-Tip：旅行者，音游好玩吗
-Tip：谱子太难不能怨曲师，除了山茶花
+Tip：★SUPER 沉默-_-微笑 TIME！！！★
+Tip：忘开云同步了！！！
+Tip：您
+Tip：请您读谱
+Tip：见百九十八知结局
+Tip：关注 一只铭铭yzmm！！！
+Tip：#include <phiraplus/tips.h>
+Tip：比家里开关位置都熟悉
 Tip：冷知识：在歌曲界面可以选择分段练习
 Tip：冷知识：现在很冷
 Tip：你猜这条 tip 要刷多少遍才能看见 Σ(*ﾟдﾟﾉ)ﾉ
-Tip：您有一个好
-Tip：您
-Tip：Tip：Tip：Tip：Tip：
-Tip：如果出现错误，先确认是最新版本，再提交反馈
-Tip：panic!();
-Tip：有一个人前来打歌
-Tip：你线蓝了
-Tip：前面忘了，中间忘了，后面忘了
-Tip：恭喜奥托普雷先生拿下世界首杀！！！
+Tip：旅行者，音游好玩吗
 Tip：必 蓝 航 线
-Tip：快把浴霸关上！！
-Tip：关注 一只铭铭yzmm qwq
-Tip：不开引导式，亲人两行泪
+Tip：读谱不能
+Tip：给我干哪来了，这还是 tip 吗
 Tip：
