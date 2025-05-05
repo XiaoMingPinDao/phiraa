@@ -3,8 +3,7 @@ Tip：当你在看 tip 时，tip 也在看你
 Tip：这里没有 tip！
 了来过倒被 pit 条这：piT
 Tip：急召美工、策划、防脱液
-Tip：Tip：Tip：Tip：Tip：
-Tip：他们朝我扔蓝键，我朝他们扔GOOD
+Tip：他们朝我扔蓝键，我朝他们扔 GOOD
 Tip：有一个人前来打歌
 Tip：您线蓝了
 Tip：恭喜奥托普擂先生拿下世界首杀！！！
@@ -12,12 +11,12 @@ Tip：快把浴霸关上！！
 Tip：不开引导式，亲人两行泪
 Tip：您有一个好
 Tip：写不下去了，给你们听采样吧
-Tip：★SUPER 沉默-_-微笑 TIME！！！★
+Tip：SUPER 沉默-_-微笑 TIME！！！
 Tip：忘开云同步了！！！
 Tip：您
 Tip：请您读谱
-Tip：见百九十八知结局
-Tip：关注 一只铭铭yzmm！！！
+Tip：绳匠，音游好玩吗
+Tip：关注 B 站 一只铭铭yzmm 谢谢喵
 Tip：#include <phiraplus/tips.h>
 Tip：比家里开关位置都熟悉
 Tip：冷知识：在歌曲界面可以选择分段练习
@@ -27,4 +26,11 @@ Tip：旅行者，音游好玩吗
 Tip：必 蓝 航 线
 Tip：读谱不能
 Tip：给我干哪来了，这还是 tip 吗
-Tip：
+Tip：GOOD 精选集
+Tip：虽然但是这是个 tip 啊
+Tip：好烂的判定线表演
+Tip：开拓者，音游好玩吗
+Tip：双厨狂喜
+Tip：光の反击
+Tip：顾名思义，Phira+ 是基于 Phira 开发的
+Tip：祝各位都能圆满拿到φ！
